@@ -1,2 +1,2 @@
 # Coursera
-HTML, CSS, and JavaScript for Web Developers / Assignment
+HTML, CSS, and JavaScript for Web Developers (Johns Hopkins University) / Assignment
